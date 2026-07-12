@@ -65,15 +65,6 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 [**View Code**](https://github.com/Vagif-Nabiev/topological-dashboard)
 
 </td>
-<td width="50%" valign="top">
-
-### 🗂️ Data Integration & Search System
-**Java Developer** — Object-oriented system to parse, integrate, and manage population and geographic coordinate data from large-scale CSV files, using a `Place → LocatedPlace → PopulatedPlace` hierarchy and recursive binary search for fast retrieval.
-
-`Java` `OOP` `Algorithms`
-
-[**View Code**](https://github.com/Vagif-Nabiev/data-integration-search)
-
 </td>
 </tr>
 </table>
