@@ -101,8 +101,9 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 ## 📊 GitHub Stats
 
 <div align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Vagif-Nabiev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagif-Nabiev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<div align="center">
+<img height="165" src="https://readme-olive-omega.vercel.app/api?username=Vagif-Nabiev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://readme-olive-omega.vercel.app/api/top-langs/?username=Vagif-Nabiev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </div>
 
 <div align="center">
