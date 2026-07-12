@@ -62,7 +62,7 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 
 `Python` `Pandas` `Scikit-learn` `NetworkX`
 
-[**View Code**](https://github.com/Vagif-Nabiev/customer-network-analysis)
+[**View Code**](https://github.com/Vagif-Nabiev/topological-dashboard)
 
 </td>
 <td width="50%" valign="top">
