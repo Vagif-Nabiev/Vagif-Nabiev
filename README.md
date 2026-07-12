@@ -8,10 +8,11 @@
 
 <br/>
 
-<!-- Update the links below with your real profiles -->
+<!-- Update the links below with your real profiles and replace the # in the Resume link with your actual PDF URL -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagif-nabiev-558144292)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagifnbiyev@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vagifnabiev)
+[![Resume](https://img.shields.io/badge/Resume-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white)](#)
 
 </div>
 
@@ -36,6 +37,7 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 <td width="50%" valign="top">
 
 ### 🛰️ Earthquake Damage Detection
+
 **Lead Researcher** — Multimodal deep learning system using **Sentinel-2 satellite imagery** and a **U-Net architecture** for infrastructural damage segmentation and prediction, produced as a national-level research initiative with full stakeholder documentation and ethical AI protocols.
 
 `Python` `Deep Learning` `U-Net` `Geospatial Analysis`
@@ -46,6 +48,7 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 <td width="50%" valign="top">
 
 ### ✍️ WriteLikeMe
+
 **Python Developer** — Full-stack app that digitizes personal handwriting into a custom font system, with a graphical interface for character capture and a rendering engine that assembles typed text into styled, transparent image exports.
 
 `Python` `GUI` `Image Processing`
@@ -55,16 +58,16 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top" align="center">
 
 ### 📊 Customer & Network Analysis
+
 **Data Scientist** — Applied **K-Means clustering** and **RFM segmentation** to extract actionable business insight from raw datasets, plus **betweenness centrality** network analysis to identify key nodes and optimize data structures.
 
 `Python` `Pandas` `Scikit-learn` `NetworkX`
 
 [**View Code**](https://github.com/Vagif-Nabiev/topological-dashboard)
 
-</td>
 </td>
 </tr>
 </table>
@@ -90,8 +93,10 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-**Tools**
+**MLOps, Deployment & Tools**
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -101,6 +106,10 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 ## 📊 GitHub Stats
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Vagif-Nabiev&label=Profile%20Views&color=0D47A1&style=for-the-badge" />
+</div>
+<br/>
+
 <div align="center">
 <img height="165" src="https://readme-olive-omega.vercel.app/api?username=Vagif-Nabiev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 <img height="165" src="https://readme-olive-omega.vercel.app/api/top-langs/?username=Vagif-Nabiev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
