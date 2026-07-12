@@ -50,7 +50,7 @@ I'm a **Computer Engineering** graduate from Ankara, Turkey, having graduated in
 
 `Python` `GUI` `Image Processing`
 
-[**🔗 Live Demo**](https://vagifnbv.pythonanywhere.com) &nbsp;·&nbsp; [**View Code**](https://github.com/Vagif-Nabiev/writelikeme)
+[**🔗 Live Demo**](https://vagifnbv.pythonanywhere.com) &nbsp;·&nbsp; [**View Code**](https://github.com/Vagif-Nabiev/WriteLikeMeApp-dev)
 
 </td>
 </tr>
