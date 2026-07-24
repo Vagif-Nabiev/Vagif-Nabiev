@@ -1,14 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:0F8B8D,100:00BCD4&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:0F8B8D,100:00BCD4&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/Vagif-Nabiev">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00BCD4&center=true&vCenter=true&width=650&lines=AI+Engineering+%7C+RAG+%26+LLMs+%7C+Backend+Dev;Building+agentic+workflows+and+production+AI;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00BCD4&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning+%7C+Data+Analytics;Extracting+insights+and+building+predictive+models;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
 </a>
 
 <br/>
 
-<!-- Update the links below with your real profiles and replace the # in the Resume link with your actual PDF URL -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vagif-nabiev-558144292)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vagifnbiyev@gmail.com)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vagifnabiev)
@@ -20,13 +19,13 @@
 
 ## 👋 About Me
 
-I'm a **Computer Engineering** graduate (July 2026) working as an **AI Engineer**. I specialize in bridging the gap between foundation models and production software — building agentic workflows, Retrieval-Augmented Generation (RAG) architectures, and scalable backend systems.
+I'm a **Computer Engineering** graduate (July 2026) specializing in **Data Science**, **Machine Learning**, and **Predictive Analytics**. I focus on transforming complex raw datasets into actionable insights, building statistical models, and developing automated data pipelines.
 
-- 🔭 Building real-time AI applications and multi-agent workflows using LangChain and FastAPI.
-- ⚡ Developing an autonomous voice-to-voice debate platform with an AI judge.
-- 🏗️ Architecting integrations between modern LLMs, Vector Databases, and Web3 infrastructure.
-- 🎯 Goal: Landing an AI Solutions Engineer or Backend Python Developer role.
-- 💬 Ask me about RAG pipelines, API orchestration, or full-stack Python deployment.
+- 🔬 Analyzing complex datasets and training machine learning models using Python, PyTorch, and SQL.
+- 🛰️ Developed a spatial data pipeline analyzing satellite imagery for disaster damage assessment.
+- 📊 Proficient in Exploratory Data Analysis (EDA), feature engineering, statistical modeling, and data cleaning.
+- 🎯 Goal: Landing a **Data Scientist**, **Data Analyst**, or **Junior Machine Learning Engineer** role.
+- 💬 Ask me about data wrangling, exploratory analysis, predictive modeling, or satellite image processing.
 
 <br/>
 
@@ -36,48 +35,48 @@ I'm a **Computer Engineering** graduate (July 2026) working as an **AI Engineer*
 <tr>
 <td width="50%" valign="top">
 
-### 🎙️ AI Debate Arena (In Progress)
+### 🛰️ Earthquake Damage Analysis Pipeline
 
-**AI Engineer** — Real-time voice-to-voice debate application featuring an autonomous AI judge. Architected with LangChain and vector databases to evaluate user arguments against dynamic rule sets and output JSON-structured performance scoring.
+**Data Science Researcher** — Multimodal deep learning and image data pipeline using **Sentinel-2 satellite imagery** and a **U-Net architecture** for structural damage segmentation. Built as a national-level research initiative with custom feature extraction and ethical AI documentation.
 
-`Python` `LangChain` `OpenAI API` `FastAPI` `Vector DB`
+`Python` `PyTorch` `Pandas` `Computer Vision` `Data Analysis`
 
-*Code coming soon*
+*Code private — university capstone*
 
 </td>
 <td width="50%" valign="top">
 
-### 🛰️ Earthquake Damage Pipeline
+### 🎙️ AI Debate Scoring System (In Progress)
 
-**Lead Researcher** — Multimodal deep learning pipeline using **Sentinel-2 satellite imagery** and a **U-Net architecture** for infrastructural damage segmentation. Built as a national-level research initiative with full ethical AI documentation.
+**Data & NLP Developer** — Real-time debate analysis application featuring automated speech evaluation. Processes text and audio data to evaluate user arguments against dynamic rule sets and outputs structured JSON statistical summaries.
 
-`Python` `PyTorch` `Deep Learning` `Computer Vision`
+`Python` `NLP` `Data Mining` `FastAPI` `Vector DB`
 
-*Code private — university capstone*
+*Code coming soon*
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🌐 Local Web3 Gateway
+### ✍️ WriteLikeMe Image Data Processing App
 
-**Backend Developer** — A directory and payment gateway platform allowing local businesses to set up accounts and securely accept digital coins via integrated Web3 wallets. 
+**Data & Python Developer** — Application for handwriting extraction and image processing. Captures individual character spatial data, applies image transformations, and outputs rendered custom image fonts.
 
-`Python` `Web3.py` `Smart Contracts` `Backend API`
+`Python` `Image Processing` `NumPy` `GUI`
 
-*Code coming soon*
+[**🔗 Live Demo**](https://vagifnbv.pythonanywhere.com) &nbsp;·&nbsp; [**View Code**](https://github.com/Vagif-Nabiev/WriteLikeMeApp-dev)
 
 </td>
 <td width="50%" valign="top">
 
-### ✍️ WriteLikeMe
+### 🌐 Web3 Gateway & Transaction Directory
 
-**Python Developer** — Full-stack app that digitizes personal handwriting into a custom font system. Features a graphical interface for character capture and a rendering engine for transparent image exports.
+**Data & Backend Developer** — A directory and transaction management platform allowing local businesses to set up accounts and monitor digital coin transaction data via integrated Web3 wallets.
 
-`Python` `GUI` `Image Processing`
+`Python` `SQL` `Data Pipelines` `Web3.py`
 
-[**🔗 Live Demo**](https://vagifnbv.pythonanywhere.com) &nbsp;·&nbsp; [**View Code**](https://github.com/Vagif-Nabiev/WriteLikeMeApp-dev)
+*Code coming soon*
 
 </td>
 </tr>
@@ -87,27 +86,26 @@ I'm a **Computer Engineering** graduate (July 2026) working as an **AI Engineer*
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-**AI & LLM Orchestration**
+**Data Science, Analytics & ML**
 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
-![Vector DBs](https://img.shields.io/badge/Pinecone_/_pgvector-000000?style=for-the-badge&logo=database&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-**Backend, Data & Deployment**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+
+**Tools & Deployment**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
 <br/>
 
