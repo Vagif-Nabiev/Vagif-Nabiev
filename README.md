@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:0F8B8D,100:00BCD4&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:0F8B8D,100:00BCD4&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%"/>
 
 <a href="https://github.com/Vagif-Nabiev">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00BCD4&center=true&vCenter=true&width=650&lines=Data+Science+%7C+Machine+Learning+%7C+Data+Analytics;Extracting+insights+and+building+predictive+models;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00BCD4&center=true&vCenter=true&width=650&lines=AI+Engineering+%7C+Machine+Learning+%7C+Deep+Learning;Building+intelligent+systems+and+scalable+AI+pipelines;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -19,13 +19,13 @@
 
 ## 👋 About Me
 
-I'm a **Computer Engineering** graduate (July 2026) specializing in **Data Science**, **Machine Learning**, and **Predictive Analytics**. I focus on transforming complex raw datasets into actionable insights, building statistical models, and developing automated data pipelines.
+I'm a **Computer Engineering** graduate (July 2026) specializing in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**. I focus on architecting intelligent systems, training complex models, and deploying scalable AI pipelines to solve real-world problems. 
 
-- 🔬 Analyzing complex datasets and training machine learning models using Python, PyTorch, and SQL.
-- 🛰️ Developed a spatial data pipeline analyzing satellite imagery for disaster damage assessment.
-- 📊 Proficient in Exploratory Data Analysis (EDA), feature engineering, statistical modeling, and data cleaning.
-- 🎯 Goal: Landing a **Data Scientist**, **Data Analyst**, or **Junior Machine Learning Engineer** role.
-- 💬 Ask me about data wrangling, exploratory analysis, predictive modeling, or satellite image processing.
+- 🧠 Designing and training neural networks and machine learning models using Python, PyTorch, and specialized AI frameworks.
+- 🛰️ Developed a computer vision pipeline leveraging deep learning for satellite imagery and disaster damage segmentation.
+- 🤖 Proficient in Natural Language Processing (NLP), Computer Vision, model optimization, and algorithmic problem-solving.
+- 🎯 Goal: Actively seeking **AI Engineer** or **Machine Learning Engineer** roles, while also exploring Master's degree programs with mandatory co-op components to further bridge the gap between academic AI research and industry applications.
+- 💬 Ask me about deep learning architectures, computer vision, AI model deployment, or NLP pipelines.
 
 <br/>
 
@@ -35,11 +35,11 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Data Scien
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ Earthquake Damage Analysis Pipeline
+### 🛰️ Earthquake Damage AI Pipeline
 
-**Data Science Researcher** — Multimodal deep learning and image data pipeline using **Sentinel-2 satellite imagery** and a **U-Net architecture** for structural damage segmentation. Built as a national-level research initiative with custom feature extraction and ethical AI documentation.
+**AI Researcher** — Multimodal deep learning and computer vision pipeline using **Sentinel-2 satellite imagery** and a **U-Net architecture** for structural damage segmentation. Built as a national-level research initiative with custom feature extraction and ethical AI documentation.
 
-`Python` `PyTorch` `Pandas` `Computer Vision` `Data Analysis`
+`Python` `PyTorch` `Computer Vision` `Deep Learning`
 
 *Code private — university capstone*
 
@@ -48,9 +48,9 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Data Scien
 
 ### 🎙️ AI Debate Scoring System (In Progress)
 
-**Data & NLP Developer** — Real-time debate analysis application featuring automated speech evaluation. Processes text and audio data to evaluate user arguments against dynamic rule sets and outputs structured JSON statistical summaries.
+**AI & NLP Engineer** — Real-time debate analysis application featuring automated speech evaluation. Processes text and audio data to evaluate user arguments against dynamic rule sets using advanced language processing, outputting structured JSON summaries.
 
-`Python` `NLP` `Data Mining` `FastAPI` `Vector DB`
+`Python` `NLP` `FastAPI` `Vector DB` `GenAI`
 
 *Code coming soon*
 
@@ -59,11 +59,11 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Data Scien
 <tr>
 <td width="50%" valign="top">
 
-### ✍️ WriteLikeMe Image Data Processing App
+### ✍️ WriteLikeMe AI Vision App
 
-**Data & Python Developer** — Application for handwriting extraction and image processing. Captures individual character spatial data, applies image transformations, and outputs rendered custom image fonts.
+**Computer Vision Developer** — Application for handwriting extraction and advanced image processing. Captures individual character spatial data, applies matrix transformations, and utilizes vision techniques to output rendered custom image fonts.
 
-`Python` `Image Processing` `NumPy` `GUI`
+`Python` `Computer Vision` `NumPy` `GUI`
 
 [**🔗 Live Demo**](https://vagifnbv.pythonanywhere.com) &nbsp;·&nbsp; [**View Code**](https://github.com/Vagif-Nabiev/WriteLikeMeApp-dev)
 
@@ -72,9 +72,9 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Data Scien
 
 ### 🌐 Web3 Gateway & Transaction Directory
 
-**Data & Backend Developer** — A directory and transaction management platform allowing local businesses to set up accounts and monitor digital coin transaction data via integrated Web3 wallets.
+**Backend Data Engineer** — A directory and transaction management platform allowing local businesses to set up accounts and monitor digital coin transaction data via integrated Web3 wallets.
 
-`Python` `SQL` `Data Pipelines` `Web3.py`
+`Python` `SQL` `Data Engineering` `Web3.py`
 
 *Code coming soon*
 
@@ -93,15 +93,15 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Data Scien
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-**Data Science, Analytics & ML**
+**AI, Machine Learning & Data**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-**Tools & Deployment**
+**MLOps, Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
