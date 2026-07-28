@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%" alt="Header" />
 
 <a href="https://github.com/Vagif-Nabiev">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00BCD4&center=true&vCenter=true&width=650&lines=AI+Engineering+%7C+Machine+Learning+%7C+Deep+Learning;Building+intelligent+systems+and+scalable+AI+pipelines;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=00BCD4&center=true&vCenter=true&width=750&lines=AI+Engineering+%7C+Machine+Learning+%7C+Deep+Learning;Building+intelligent+systems+and+scalable+AI+pipelines;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
 </a>
 
 <br/>
