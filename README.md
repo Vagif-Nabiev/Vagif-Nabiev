@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,50:0F8B8D,100:00BCD4&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%" alt="Header" />
 
 <a href="https://github.com/Vagif-Nabiev">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=22&pause=1200&color=00BCD4&center=true&vCenter=true&width=650&lines=AI+Engineering+%7C+Machine+Learning+%7C+Deep+Learning;Building+intelligent+systems+and+scalable+AI+pipelines;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
@@ -69,7 +69,7 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Artificial
 
 ### ✍️ WriteLikeMe AI Vision App
 
-**Computer Vision Developer** — Application for handwriting extraction and advanced image processing. Captures individual character spatial data, applies matrix transformations, and utilizes vision techniques to output rendered custom image fonts.
+**Computer Vision Developer** — Application for handwriting digitization and rendering. Captures individual character spatial data, applies matrix transformations, and utilizes image processing to output rendered custom image fonts.
 
 `Python` `Computer Vision` `NumPy` `GUI`
 
@@ -78,13 +78,11 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Artificial
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Web3 Gateway & Transaction Directory
+### 📊 Data-Driven Customer & Network Analysis
 
-**Backend Data Engineer** — A directory and transaction management platform allowing local businesses to set up accounts and monitor digital coin transaction data via integrated Web3 wallets.
+**Data Scientist** — Implemented **K-Means clustering** and **RFM (Recency, Frequency, Monetary) segmentation** in Python to extract actionable business insights from raw datasets. Applied betweenness centrality metrics for network analysis to identify key nodes and optimize data structures.
 
-`Python` `SQL` `Data Engineering` `Web3.py`
-
-*Code coming soon*
+`Python` `Scikit-Learn` `Pandas` `NumPy`
 
 </td>
 </tr>
@@ -97,23 +95,21 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Artificial
 **Languages & Databases**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
 **AI, Machine Learning & Data**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
 **MLOps, Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 <br/>
 
