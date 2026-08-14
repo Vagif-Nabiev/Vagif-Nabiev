@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=180&section=header&text=Vagif%20Nabiev&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20%7C%20Computer%20Engineering%20%2726&descAlignY=55&descSize=16" width="100%" alt="Header" />
 
 <a href="https://github.com/Vagif-Nabiev">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=00BCD4&center=true&vCenter=true&width=750&lines=AI+Engineering+%7C+Machine+Learning+%7C+Deep+Learning;Building+intelligent+systems+and+scalable+AI+pipelines;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=18&pause=1200&color=00BCD4&center=true&vCenter=true&width=750&lines=Data+Science+%7C+Machine+Learning+%7C+AI;Turning+raw+data+into+models%2C+insights%2C+and+decisions;B.Sc.+Computer+Engineering+%40+Ankara+Medipol+University" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -27,13 +27,15 @@
 
 ## 👋 About Me
 
-I'm a **Computer Engineering** graduate (July 2026) specializing in **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**. I focus on architecting intelligent systems, training complex models, and deploying scalable AI pipelines to solve real-world problems. 
+I'm a **Computer Engineering graduate (July 2026)** focused on **Data Science, Machine Learning, and Artificial Intelligence**. I enjoy working with messy, real-world data and turning it into useful insights, predictive models, and data-driven solutions.
 
-- 🧠 Designing and training neural networks and machine learning models using Python, PyTorch, and specialized AI frameworks.
-- 🛰️ Developed a computer vision pipeline leveraging deep learning for satellite imagery and disaster damage segmentation.
-- 🤖 Proficient in Natural Language Processing (NLP), Computer Vision, model optimization, and algorithmic problem-solving.
-- 🎯 Goal: Actively seeking **AI Engineer** or **Machine Learning Engineer** roles, while also exploring Master's degree programs with mandatory co-op components to further bridge the gap between academic AI research and industry applications.
-- 💬 Ask me about deep learning architectures, computer vision, AI model deployment, or NLP pipelines.
+- 📊 Analyze and transform structured and unstructured datasets using **Python, SQL, Pandas, and NumPy**.
+- 🤖 Build and evaluate machine learning models using **Scikit-Learn and PyTorch**.
+- 📈 Apply clustering, segmentation, statistical analysis, and exploratory data analysis to uncover patterns and actionable insights.
+- 🛰️ Worked on a computer vision pipeline using **satellite imagery and deep learning** for disaster damage segmentation.
+- 🧠 Interested in **machine learning, computer vision, NLP, and applied AI**.
+- 🎯 Seeking opportunities in **Data Science, Machine Learning, and Analytics**, while continuing to develop strong statistical and engineering foundations.
+- 💬 Ask me about **Python, SQL, machine learning, data analysis, computer vision, or NLP**.
 
 <br/>
 
@@ -43,48 +45,51 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Artificial
 <tr>
 <td width="50%" valign="top">
 
-### 🛰️ Earthquake Damage AI Pipeline
+### 📊 Data-Driven Customer & Network Analysis
 
-**AI Researcher** — Multimodal deep learning and computer vision pipeline using **Sentinel-2 satellite imagery** and a **U-Net architecture** for structural damage segmentation. Built as a national-level research initiative with custom feature extraction and ethical AI documentation.
+**Data Science Project** — Analyzed raw customer and network data to identify behavioral patterns and actionable business insights. Applied **RFM segmentation**, **K-Means clustering**, and **network centrality analysis** to segment customers and identify influential nodes.
+
+`Python` `Pandas` `NumPy` `Scikit-Learn`
+
+[**View Code**](https://github.com/Vagif-Nabiev/topological-dashboard.git)
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🛰️ Earthquake Damage Analysis
+
+**Machine Learning / Computer Vision** — Developed a deep learning pipeline using **Sentinel-2 satellite imagery** to identify and segment structural damage following earthquakes. Implemented a **U-Net architecture** with custom preprocessing and feature extraction.
 
 `Python` `PyTorch` `Computer Vision` `Deep Learning`
 
 *Code private — university capstone*
 
 </td>
+</tr>
+
+<tr>
 <td width="50%" valign="top">
 
-### 🎙️ AI Debate Scoring System (In Progress)
+### 🎙️ AI Debate Scoring System
 
-**AI & NLP Engineer** — Real-time debate analysis application featuring automated speech evaluation. Processes text and audio data to evaluate user arguments against dynamic rule sets using advanced language processing, outputting structured JSON summaries.
+**Data & NLP Project** — Building an application that processes **text and audio data** to analyze arguments, extract structured information, and generate automated evaluation outputs using NLP and generative AI.
 
 `Python` `NLP` `FastAPI` `Vector DB` `GenAI`
 
-*Code coming soon*
+*In Progress*
 
 </td>
-</tr>
-<tr>
+
 <td width="50%" valign="top">
 
 ### ✍️ WriteLikeMe AI Vision App
 
-**Computer Vision Developer** — Application for handwriting digitization and rendering. Captures individual character spatial data, applies matrix transformations, and utilizes image processing to output rendered custom image fonts.
+**Computer Vision Project** — Developed an application for handwriting digitization and rendering. Extracts spatial information from handwritten characters, applies matrix transformations, and generates customized image-based font representations.
 
-`Python` `Computer Vision` `NumPy` `GUI`
+`Python` `NumPy` `Computer Vision` `GUI`
 
-[**🔗 Live Demo**](https://vagifnbv.pythonanywhere.com) &nbsp;·&nbsp; [**View Code**](https://github.com/Vagif-Nabiev/WriteLikeMeApp-dev)
-
-</td>
-<td width="50%" valign="top">
-
-### 📊 Data-Driven Customer & Network Analysis
-
-**Data Scientist** — Implemented **K-Means clustering** and **RFM (Recency, Frequency, Monetary) segmentation** in Python to extract actionable business insights from raw datasets. Applied betweenness centrality metrics for network analysis to identify key nodes and optimize data structures.
-
-`Python` `Scikit-Learn` `Pandas` `NumPy`
-
-[**View Code**](https://github.com/Vagif-Nabiev/topological-dashboard.git)
+[**🔗 Live Demo**](https://vagifnbv.pythonanywhere.com) · [**View Code**](https://github.com/Vagif-Nabiev/WriteLikeMeApp-dev)
 
 </td>
 </tr>
@@ -92,30 +97,42 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Artificial
 
 <br/>
 
-## 🛠️ Tech Stack
+## 🧰 Technical Skills
 
-**Languages & Databases**
+### 📊 Data Science & Analytics
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-**AI, Machine Learning & Data**
+**Data Analysis:** Exploratory Data Analysis · Data Cleaning · Feature Engineering · Data Transformation · Customer Segmentation · Statistical Analysis
+
+### 🤖 Machine Learning & AI
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![spaCy](https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white)
 
-**MLOps, Tools & Deployment**
+**Machine Learning:** Classification · Regression · Clustering · Model Evaluation · Feature Engineering · Dimensionality Reduction
 
+**AI:** Computer Vision · NLP · Deep Learning · Generative AI
+
+### 🗄️ Databases & Tools
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+### 🚀 Deployment & Engineering
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+**Engineering:** REST APIs · Model Deployment · Version Control · Data Pipelines
+
 <br/>
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -125,7 +142,7 @@ I'm a **Computer Engineering** graduate (July 2026) specializing in **Artificial
 
   <img height="165" src="https://readme-olive-omega.vercel.app/api?username=Vagif-Nabiev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img height="165" src="https://readme-olive-omega.vercel.app/api/top-langs/?username=Vagif-Nabiev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-  
+
   <br/><br/>
 
   <a href="https://github.com/Vagif-Nabiev">
