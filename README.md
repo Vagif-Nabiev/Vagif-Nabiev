@@ -99,19 +99,19 @@ I'm a **Computer Engineering graduate (July 2026)** with a strong focus on **Dat
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=Vagif-Nabiev&amp;label=Profile%20Views&amp;color=0D47A1&amp;style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Vagif-Nabiev&label=Profile%20Views&color=0D47A1&style=for-the-badge" alt="Profile Views" />
   
   <br/><br/>
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vagif-Nabiev&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Vagif's GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagif-Nabiev&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;count_private=true" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Vagif-Nabiev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vagif's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vagif-Nabiev&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com/?user=Vagif-Nabiev&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Vagif-Nabiev&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:00BCD4,100:0D47A1&amp;height=100&amp;section=footer" width="100%" alt="Footer Background" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00BCD4,100:0D47A1&height=100&section=footer" width="100%" alt="Footer Background" />
