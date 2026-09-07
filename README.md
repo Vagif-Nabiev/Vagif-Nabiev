@@ -63,7 +63,7 @@ I'm a **Computer Engineering graduate (July 2026)** focused on **AI Engineering*
     </td>
     <td width="50%" valign="top">
       <h3>📊 Data-Driven Customer &amp; Network Analysis</h3>
-      <p>Analyzed raw customer and network data to identify behavioral patterns. Applied <strong>RFM segmentation</strong>, <strong>K-Means clustering</strong>, and <strong>network centrality analysis</strong> to segment customers and identify influential nodes.</p>
+      <p>Analyzed raw customer and network data to identify behavioral pattern. Applied <strong>RFM segmentation</strong>, <strong>K-Means clustering</strong>, and <strong>network centrality analysis</strong> to segment customers and identify influential nodes.</p>
       <p><code>Python</code> <code>Pandas</code> <code>NumPy</code> <code>Scikit-Learn</code></p>
       <a href="https://github.com/Vagif-Nabiev/topological-dashboard.git"><strong>View Code</strong></a>
     </td>
