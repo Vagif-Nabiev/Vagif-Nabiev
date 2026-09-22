@@ -32,7 +32,6 @@ I'm a **Computer Engineering graduate (July 2026)** focused on **AI Engineering*
 *   🤖 **AI Engineering:** I build **RAG pipelines, agentic systems, and LLM-powered applications**, from retrieval and orchestration to deployment.
 *   🛰️ **Applied Deep Learning:** Hands-on experience with computer vision, including a **U-Net pipeline on Sentinel-2 satellite imagery** for disaster damage segmentation.
 *   📊 **ML/Statistics Foundation:** Comfortable across **classification, regression, clustering, and statistical analysis** using Python, Pandas, and Scikit-Learn — the base that supports everything above it.
-*   🎯 **Current Focus:** Extending a bilingual Turkish/Arabic RAG system into a building-code compliance tool for seismic engineering (TBDY and international standards).
 *   💬 **Let's Talk About:** LLM applications, RAG architecture, agentic systems, or how AI can solve real-world engineering and business problems.
 
 <br/>
