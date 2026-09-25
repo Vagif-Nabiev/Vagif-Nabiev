@@ -55,7 +55,7 @@ I'm a **Computer Engineering graduate (July 2026)** focused on **AI Engineering*
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>✍️ WriteLikeMe AI Vision App</h3>
+      <h3>✍️ WriteLikeMe App</h3>
       <p>An application for handwriting digitization. Extracts spatial information from handwritten characters, applies matrix transformations, and generates customized image-based font representations.</p>
       <p><code>Python</code> <code>NumPy</code> <code>Computer Vision</code> <code>GUI</code></p>
       <a href="https://vagifnbv.pythonanywhere.com"><strong>🔗 Live Demo</strong></a> · <a href="https://github.com/Vagif-Nabiev/WriteLikeMeApp-dev"><strong>View Code</strong></a>
